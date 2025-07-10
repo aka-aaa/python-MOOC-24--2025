@@ -1,4 +1,4 @@
-# Sudoku Grid Validator 🧩
+# Sudoku Grid Validator 
 
 This Python script checks whether a given 9x9 Sudoku grid is valid.  
 It ensures that each row, column, and 3x3 block contains unique numbers from 1 to 9 (zeros are ignored).
