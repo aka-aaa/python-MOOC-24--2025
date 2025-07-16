@@ -1,4 +1,4 @@
-# python-MOOC-24--2025
+# python-MOOC-24
 Python fundamentals
 Daily exercises and practice tasks for learning Python.
 ## Author:
